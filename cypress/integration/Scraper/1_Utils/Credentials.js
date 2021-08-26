@@ -9,5 +9,5 @@ export const Credentials =
     notRegistredEmail: 'wrong@mail.uu',
     validPassword: '123456',
     invalidPassword: 'invalid',
-    shortWrongPassword: 'shorft'
-}
+    shortWrongPassword: 'short' 
+} 
